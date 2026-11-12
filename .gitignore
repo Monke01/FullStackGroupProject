@@ -1,0 +1,27 @@
+# Node dependencies & builds
+node_modules/
+quizforge-frontend/node_modules/
+quizforge-frontend/build/
+
+# Maven target & standalone binaries
+target/
+quizforge-backend/target/
+apache-maven-*/
+*.class
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment & local settings
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
