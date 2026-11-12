@@ -136,3 +136,4 @@ RELEASE_PLAN_TABLE = [
 ]
 
 print("Chapter 1 data ready.")
+

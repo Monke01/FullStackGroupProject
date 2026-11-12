@@ -117,3 +117,4 @@ def add_table(doc, headers, data, col_widths=None):
     return table
 
 print("Base helper ready.")
+

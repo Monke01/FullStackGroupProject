@@ -149,3 +149,4 @@ ABBREVIATIONS_DATA = [
     ("UX", "User Experience"),
     ("VCS", "Version Control System")
 ]
+
